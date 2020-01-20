@@ -1,4 +1,4 @@
-# EE599 HW1 Find Medain
+# EE599 HW1 Find Median
 > Finds the median value in a sorted C++ Vector
 
 ## Installation
