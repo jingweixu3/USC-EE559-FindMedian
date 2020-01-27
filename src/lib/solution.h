@@ -7,11 +7,10 @@
 
 class Solution {
 public:
-  std::string PrintHelloWorld();
-
-public:
   double FindMedian(std::vector <double> &input);
-
+private:
+  bool Is_Sorted(std::vector <double> &input);
 };
+
 
 #endif
